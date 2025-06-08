@@ -2,7 +2,7 @@
 
 A modern, responsive, and professional website built for industrial businesses. This website is designed to showcase products, certifications, client testimonials, and a strong company presence with integrated maps, reviews, and social media.
 
-![Website Screenshot](./public/screenshot.png)
+![Website Screenshot](src/SS/Home.png)
 
 ---
 
