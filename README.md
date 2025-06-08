@@ -8,7 +8,7 @@ A modern, responsive, and professional website built for industrial businesses. 
 
 ## 🌐 Live Demo
 
-🔗 [View Live Site](https://your-demo-link.com)
+🔗 [View Live Site](precisiontech.vercel.app)
 
 ---
 
