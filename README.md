@@ -42,7 +42,7 @@ A modern, responsive, and professional website built for industrial businesses. 
 
 | Achievements Section | Services | Contact + Map |
 |----------------------|----------|---------------|
-| ![Achievements](src/SS/Achievements.png) | ![Services](src/SS/Service.png) | ![Map](src/SS/contact.png) |
+| ![Achievements](src/SS/Achievement.png) | ![Services](src/SS/Service.png) | ![Map](src/SS/contact.png) |
 
 ---
 
