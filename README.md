@@ -40,9 +40,9 @@ A modern, responsive, and professional website built for industrial businesses. 
 
 ## 📸 Screenshots
 
-| Home Section | Services | Contact + Map |
-|--------------|----------|---------------|
-| ![Home](./public/screens/home.png) | ![Services](./public/screens/services.png) | ![Map](./public/screens/map.png) |
+| Achievements Section | Services | Contact + Map |
+|----------------------|----------|---------------|
+| ![Home](src/SS/Achievements.png) | ![Services](src/SS/Services.png) | ![Map](src/SS/contact.png) |
 
 ---
 
